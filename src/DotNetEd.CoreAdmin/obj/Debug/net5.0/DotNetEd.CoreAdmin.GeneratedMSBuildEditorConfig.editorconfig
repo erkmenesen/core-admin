@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DotNetEd.CoreAdmin
+build_property.ProjectDir = C:\Users\Selin\Desktop\core-admin-0ec10402fd4cac57e3f44602668af41a87aa4db6\src\DotNetEd.CoreAdmin\
