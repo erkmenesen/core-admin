@@ -1,8 +1,8 @@
-# Core Admin Panel for ASP.NET Core & .NET 6
+# Core Admin Panel for ASP.NET Core & .NET 5
 
-##Erkmen
-First of all congratulations to Ed for a great job!
-In this branch, I applied the visual storage and customization feature in the database as ArrayList, which is one of the most useful features it added for .NET 6, to the .NET 5 version.
+# Erkmen;
+# First of all congratulations to Ed for a great job!
+# In this branch, I applied the visual storage and customization feature in the database as ArrayList, which is one of the most useful features it added for .NET 6, to the .NET 5 version.
 
 [![.NET 6](https://github.com/edandersen/core-admin/actions/workflows/dotnet-core.yml/badge.svg)](https://github.com/edandersen/core-admin/actions/workflows/dotnet-core.yml)
 
